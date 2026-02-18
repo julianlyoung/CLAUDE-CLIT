@@ -1,0 +1,20 @@
+{
+  "id": "matrix",
+  "name": "Matrix",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#000000",
+    "--bg-deep": "#000000",
+    "--bg-surface": "#0a0f0a",
+    "--text": "#00FF41",
+    "--text-muted": "rgba(0,255,65,0.4)",
+    "--border": "rgba(0,255,65,0.1)",
+    "--accent": "#00FF41",
+    "--ready": "#00FF41",
+    "--working": "#88FF00",
+    "--dead": "#003300",
+    "--error": "#FF0040",
+    "--surface-hover": "rgba(0,255,65,0.04)",
+    "--surface-active": "rgba(0,255,65,0.08)"
+  }
+}

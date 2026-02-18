@@ -1,0 +1,33 @@
+{
+  "name": "cli-cockpit",
+  "version": "1.0.0",
+  "description": "LAN-hosted PWA terminal cockpit for managing Claude Code and PowerShell sessions",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "css": "npx @tailwindcss/cli -i client/css/input.css -o client/css/style.css --watch",
+    "css:build": "npx @tailwindcss/cli -i client/css/input.css -o client/css/style.css --minify",
+    "dev": "concurrently \"npm run css\" \"npm start\""
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-pty": "^1.0.0",
+    "ws": "^8.16.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "terminal",
+    "pwa",
+    "claude-code",
+    "pty"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "concurrently": "^9.2.1",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^4.1.18"
+  }
+}

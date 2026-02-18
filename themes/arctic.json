@@ -1,0 +1,20 @@
+{
+  "id": "arctic",
+  "name": "Arctic",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#E8EEF2",
+    "--bg-deep": "#D8E2EA",
+    "--bg-surface": "#F0F4F8",
+    "--text": "#2E3B4E",
+    "--text-muted": "rgba(46,59,78,0.45)",
+    "--border": "rgba(0,0,0,0.07)",
+    "--accent": "#2B7CE9",
+    "--ready": "#1AAB5E",
+    "--working": "#E09B20",
+    "--dead": "#B0BEC5",
+    "--error": "#D32F2F",
+    "--surface-hover": "rgba(0,0,0,0.03)",
+    "--surface-active": "rgba(0,0,0,0.06)"
+  }
+}

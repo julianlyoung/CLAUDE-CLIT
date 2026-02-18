@@ -1,0 +1,20 @@
+{
+  "id": "ember",
+  "name": "Ember",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#1a0c0c",
+    "--bg-deep": "#120707",
+    "--bg-surface": "#2a1414",
+    "--text": "#f0d0c0",
+    "--text-muted": "rgba(240,208,192,0.5)",
+    "--border": "rgba(255,100,50,0.1)",
+    "--accent": "#FF6633",
+    "--ready": "#44CC66",
+    "--working": "#FF9933",
+    "--dead": "#4a3030",
+    "--error": "#FF3333",
+    "--surface-hover": "rgba(255,100,50,0.06)",
+    "--surface-active": "rgba(255,100,50,0.12)"
+  }
+}

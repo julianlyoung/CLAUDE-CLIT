@@ -1,0 +1,20 @@
+{
+  "id": "high-contrast",
+  "name": "High Contrast",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#000000",
+    "--bg-deep": "#000000",
+    "--bg-surface": "#1A1A1A",
+    "--text": "#FFFFFF",
+    "--text-muted": "rgba(255,255,255,0.7)",
+    "--border": "rgba(255,255,255,0.25)",
+    "--accent": "#00BFFF",
+    "--ready": "#00FF00",
+    "--working": "#FFFF00",
+    "--dead": "#666666",
+    "--error": "#FF0000",
+    "--surface-hover": "rgba(255,255,255,0.08)",
+    "--surface-active": "rgba(255,255,255,0.15)"
+  }
+}

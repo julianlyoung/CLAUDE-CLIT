@@ -1,0 +1,20 @@
+{
+  "id": "white-minimal",
+  "name": "White Minimal",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#FFFFFF",
+    "--bg-deep": "#F5F5F5",
+    "--bg-surface": "#FAFAFA",
+    "--text": "#1a1a1a",
+    "--text-muted": "rgba(26,26,26,0.45)",
+    "--border": "rgba(0,0,0,0.08)",
+    "--accent": "#111111",
+    "--ready": "#34A853",
+    "--working": "#FBBC04",
+    "--dead": "#CCCCCC",
+    "--error": "#EA4335",
+    "--surface-hover": "rgba(0,0,0,0.03)",
+    "--surface-active": "rgba(0,0,0,0.06)"
+  }
+}

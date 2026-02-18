@@ -1,0 +1,20 @@
+{
+  "id": "ayu-dark",
+  "name": "Ayu Dark",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#0A0E14",
+    "--bg-deep": "#060910",
+    "--bg-surface": "#1A1F29",
+    "--text": "#B3B1AD",
+    "--text-muted": "rgba(179,177,173,0.5)",
+    "--border": "rgba(255,255,255,0.06)",
+    "--accent": "#E6B450",
+    "--ready": "#AAD94C",
+    "--working": "#FFB454",
+    "--dead": "#3D424D",
+    "--error": "#D95757",
+    "--surface-hover": "rgba(255,255,255,0.04)",
+    "--surface-active": "rgba(255,255,255,0.08)"
+  }
+}

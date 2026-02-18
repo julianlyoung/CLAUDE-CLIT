@@ -1,0 +1,10 @@
+node_modules/
+sessions.json
+.env
+*.log
+config.json
+start.bat
+start-remote.bat
+debug.log
+improvements-plan.md
+progress/

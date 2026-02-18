@@ -1,0 +1,20 @@
+{
+  "id": "rose-pine",
+  "name": "Rose Pine",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#191724",
+    "--bg-deep": "#13111e",
+    "--bg-surface": "#1F1D2E",
+    "--text": "#E0DEF4",
+    "--text-muted": "rgba(224,222,244,0.5)",
+    "--border": "rgba(255,255,255,0.06)",
+    "--accent": "#C4A7E7",
+    "--ready": "#9CCFD8",
+    "--working": "#F6C177",
+    "--dead": "#524F67",
+    "--error": "#EB6F92",
+    "--surface-hover": "rgba(255,255,255,0.04)",
+    "--surface-active": "rgba(255,255,255,0.08)"
+  }
+}

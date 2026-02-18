@@ -1,0 +1,20 @@
+{
+  "id": "cyberpunk",
+  "name": "Cyberpunk",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#0a0a0f",
+    "--bg-deep": "#050508",
+    "--bg-surface": "#12111e",
+    "--text": "#e0d0ff",
+    "--text-muted": "rgba(224,208,255,0.5)",
+    "--border": "rgba(255,0,255,0.12)",
+    "--accent": "#FF00FF",
+    "--ready": "#00FF9F",
+    "--working": "#FFE600",
+    "--dead": "#333344",
+    "--error": "#FF003C",
+    "--surface-hover": "rgba(255,0,255,0.06)",
+    "--surface-active": "rgba(255,0,255,0.12)"
+  }
+}

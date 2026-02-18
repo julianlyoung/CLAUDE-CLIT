@@ -1,0 +1,20 @@
+{
+  "id": "lavender",
+  "name": "Lavender Haze",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#F0ECF5",
+    "--bg-deep": "#E4DDF0",
+    "--bg-surface": "#F7F4FA",
+    "--text": "#3D2E5C",
+    "--text-muted": "rgba(61,46,92,0.45)",
+    "--border": "rgba(100,60,180,0.08)",
+    "--accent": "#7C3AED",
+    "--ready": "#10B981",
+    "--working": "#F59E0B",
+    "--dead": "#C4B5D9",
+    "--error": "#EF4444",
+    "--surface-hover": "rgba(100,60,180,0.04)",
+    "--surface-active": "rgba(100,60,180,0.07)"
+  }
+}

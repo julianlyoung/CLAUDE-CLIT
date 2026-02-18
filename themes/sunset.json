@@ -1,0 +1,20 @@
+{
+  "id": "sunset",
+  "name": "Sunset",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#1a1020",
+    "--bg-deep": "#120a18",
+    "--bg-surface": "#251530",
+    "--text": "#f0d8e8",
+    "--text-muted": "rgba(240,216,232,0.5)",
+    "--border": "rgba(255,120,180,0.08)",
+    "--accent": "#FF6B9D",
+    "--ready": "#C792EA",
+    "--working": "#FFCB6B",
+    "--dead": "#3a2840",
+    "--error": "#FF5572",
+    "--surface-hover": "rgba(255,107,157,0.05)",
+    "--surface-active": "rgba(255,107,157,0.1)"
+  }
+}

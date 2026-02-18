@@ -1,0 +1,20 @@
+{
+  "id": "dracula",
+  "name": "Dracula",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#282A36",
+    "--bg-deep": "#21222C",
+    "--bg-surface": "#343746",
+    "--text": "#F8F8F2",
+    "--text-muted": "rgba(248,248,242,0.55)",
+    "--border": "rgba(255,255,255,0.08)",
+    "--accent": "#BD93F9",
+    "--ready": "#50FA7B",
+    "--working": "#FFB86C",
+    "--dead": "#6272A4",
+    "--error": "#FF5555",
+    "--surface-hover": "rgba(255,255,255,0.05)",
+    "--surface-active": "rgba(255,255,255,0.1)"
+  }
+}

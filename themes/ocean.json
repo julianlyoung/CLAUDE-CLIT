@@ -1,0 +1,20 @@
+{
+  "id": "ocean",
+  "name": "Ocean Deep",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#0B1929",
+    "--bg-deep": "#071220",
+    "--bg-surface": "#112240",
+    "--text": "#A8C8E8",
+    "--text-muted": "rgba(168,200,232,0.5)",
+    "--border": "rgba(100,180,255,0.08)",
+    "--accent": "#64FFDA",
+    "--ready": "#64FFDA",
+    "--working": "#FFD54F",
+    "--dead": "#2C3E5A",
+    "--error": "#FF5370",
+    "--surface-hover": "rgba(100,255,218,0.04)",
+    "--surface-active": "rgba(100,255,218,0.08)"
+  }
+}

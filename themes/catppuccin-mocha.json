@@ -1,0 +1,20 @@
+{
+  "id": "catppuccin-mocha",
+  "name": "Catppuccin Mocha",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#1E1E2E",
+    "--bg-deep": "#181825",
+    "--bg-surface": "#313244",
+    "--text": "#CDD6F4",
+    "--text-muted": "rgba(205,214,244,0.5)",
+    "--border": "rgba(255,255,255,0.06)",
+    "--accent": "#89B4FA",
+    "--ready": "#A6E3A1",
+    "--working": "#F9E2AF",
+    "--dead": "#585B70",
+    "--error": "#F38BA8",
+    "--surface-hover": "rgba(255,255,255,0.04)",
+    "--surface-active": "rgba(255,255,255,0.08)"
+  }
+}

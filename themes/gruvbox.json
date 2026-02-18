@@ -1,0 +1,20 @@
+{
+  "id": "gruvbox",
+  "name": "Gruvbox",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#282828",
+    "--bg-deep": "#1D2021",
+    "--bg-surface": "#3C3836",
+    "--text": "#EBDBB2",
+    "--text-muted": "rgba(235,219,178,0.55)",
+    "--border": "rgba(255,255,255,0.07)",
+    "--accent": "#458588",
+    "--ready": "#B8BB26",
+    "--working": "#FABD2F",
+    "--dead": "#665C54",
+    "--error": "#FB4934",
+    "--surface-hover": "rgba(255,255,255,0.04)",
+    "--surface-active": "rgba(255,255,255,0.08)"
+  }
+}

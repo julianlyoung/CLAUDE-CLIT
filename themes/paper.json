@@ -1,0 +1,20 @@
+{
+  "id": "paper",
+  "name": "Paper",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#F2EDE4",
+    "--bg-deep": "#E8E0D4",
+    "--bg-surface": "#FAF6F0",
+    "--text": "#3B3228",
+    "--text-muted": "rgba(59,50,40,0.45)",
+    "--border": "rgba(0,0,0,0.08)",
+    "--accent": "#8B6914",
+    "--ready": "#5A8C32",
+    "--working": "#C48A0A",
+    "--dead": "#B0A898",
+    "--error": "#C0392B",
+    "--surface-hover": "rgba(0,0,0,0.03)",
+    "--surface-active": "rgba(0,0,0,0.06)"
+  }
+}

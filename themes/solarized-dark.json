@@ -1,0 +1,20 @@
+{
+  "id": "solarized-dark",
+  "name": "Solarized Dark",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#002b36",
+    "--bg-deep": "#001f27",
+    "--bg-surface": "#073642",
+    "--text": "#839496",
+    "--text-muted": "rgba(131,148,150,0.6)",
+    "--border": "rgba(255,255,255,0.06)",
+    "--accent": "#268BD2",
+    "--ready": "#859900",
+    "--working": "#B58900",
+    "--dead": "#586e75",
+    "--error": "#DC322F",
+    "--surface-hover": "rgba(255,255,255,0.04)",
+    "--surface-active": "rgba(255,255,255,0.08)"
+  }
+}

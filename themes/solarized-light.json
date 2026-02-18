@@ -1,0 +1,20 @@
+{
+  "id": "solarized-light",
+  "name": "Solarized Light",
+  "author": "Built-in",
+  "colors": {
+    "--bg": "#FDF6E3",
+    "--bg-deep": "#EEE8D5",
+    "--bg-surface": "#F5EFDC",
+    "--text": "#657B83",
+    "--text-muted": "rgba(101,123,131,0.6)",
+    "--border": "rgba(0,0,0,0.08)",
+    "--accent": "#268BD2",
+    "--ready": "#859900",
+    "--working": "#B58900",
+    "--dead": "#93A1A1",
+    "--error": "#DC322F",
+    "--surface-hover": "rgba(0,0,0,0.04)",
+    "--surface-active": "rgba(0,0,0,0.07)"
+  }
+}
